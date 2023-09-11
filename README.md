@@ -6,6 +6,6 @@ Click Code and Download Zip!
 
 Put a File Need To Replace To Autoexec!
 
-Open AutoReplaceFile!
+Open AutoReplaceFile.exe!
 
 # Credit Discord : Mxniny#3312
